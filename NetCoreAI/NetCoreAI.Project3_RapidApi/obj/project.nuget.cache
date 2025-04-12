@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMkz5YWwu/w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\NetCoreAI\\NetCoreAI.Project3_RapidApi\\NetCoreAI.Project3_RapidApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

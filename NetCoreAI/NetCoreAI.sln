@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAI.Project1_ApiDemo", "NetCoreAI.Project1_ApiDemo\NetCoreAI.Project1_ApiDemo.csproj", "{8A6FCC68-5DBE-4712-8CA4-170C1EAACBE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAI.Project2_ApiConsumeUI", "NetCoreAI.Project2_ApiConsumeUI\NetCoreAI.Project2_ApiConsumeUI.csproj", "{60C14435-2D1D-4630-A30C-D86C73FFE99A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAI.Project3_RapidApi", "NetCoreAI.Project3_RapidApi\NetCoreAI.Project3_RapidApi.csproj", "{7508395D-7FEB-4A11-AE27-2513C91C6C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project4_OpenAIChat", "NetCoreAI.Project4_OpenAIChat\NetCoreAI.Project4_OpenAIChat.csproj", "{86A0CED3-FD7E-404B-A0C5-3743BA51E530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project5_OpenAIWhisperAudioTranskript", "NetCoreAI.Project5_OpenAIWhisperAudioTranskript\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.csproj", "{446BF4C6-8A49-4D41-9CF2-321DC0EE1167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A6FCC68-5DBE-4712-8CA4-170C1EAACBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6FCC68-5DBE-4712-8CA4-170C1EAACBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6FCC68-5DBE-4712-8CA4-170C1EAACBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6FCC68-5DBE-4712-8CA4-170C1EAACBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C14435-2D1D-4630-A30C-D86C73FFE99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C14435-2D1D-4630-A30C-D86C73FFE99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C14435-2D1D-4630-A30C-D86C73FFE99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C14435-2D1D-4630-A30C-D86C73FFE99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7508395D-7FEB-4A11-AE27-2513C91C6C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7508395D-7FEB-4A11-AE27-2513C91C6C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7508395D-7FEB-4A11-AE27-2513C91C6C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7508395D-7FEB-4A11-AE27-2513C91C6C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A0CED3-FD7E-404B-A0C5-3743BA51E530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A0CED3-FD7E-404B-A0C5-3743BA51E530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A0CED3-FD7E-404B-A0C5-3743BA51E530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A0CED3-FD7E-404B-A0C5-3743BA51E530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{446BF4C6-8A49-4D41-9CF2-321DC0EE1167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446BF4C6-8A49-4D41-9CF2-321DC0EE1167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446BF4C6-8A49-4D41-9CF2-321DC0EE1167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446BF4C6-8A49-4D41-9CF2-321DC0EE1167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5118D7-058A-4B86-B745-D7AFCFD82FFB}
+	EndGlobalSection
+EndGlobal

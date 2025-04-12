@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.exe
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.deps.json
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.runtimeconfig.json
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.dll
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.pdb
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.sourcelink.json
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.dll
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\refint\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.dll
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.pdb
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranskript\obj\Debug\net8.0\ref\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.dll
